@@ -10,4 +10,7 @@ With Github Actions, we could get out of this bloatware once and for all.
 
 # Usage
 
-Just fork this repo and edit the yml file, change the package name and install dependencies if necessary. After commited, check the Actions tab and find the artifact.
+Just fork this repo and edit the yml file, change the package name and install dependencies if necessary. After commited, check the Actions tab and find the artifact in `build_artifact`.
+
+![image](https://user-images.githubusercontent.com/2762704/150502642-412f4d5b-44e9-4390-86df-7812df8c452b.png)
+
